@@ -1,9 +1,13 @@
-publi class sum {
+public class sum {
     public static void mian(String [] args){
 
         int a = 10;
         int b = 20;
 
-        System.out.println(a + b);
+        
+        System.out.println(a + b); // total sum
+        System.out.println(a - b);
+   
     }
+
 }
